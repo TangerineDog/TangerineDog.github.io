@@ -63,7 +63,6 @@ tmp\game.veb
 Container 'C:\Users\Markus\Documents\Roof\Game 3\Scene002.vs'
 -------------------------------------------------------------------------------
 Fuggerstraße.png
-Control_Light.png
 Dach_1_4.png
 Baum_2_2.png
 Dach_3_3.png
